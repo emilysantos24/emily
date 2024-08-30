@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <style>
+             body {
+                background-color: rgb(88, 18, 88);
+            }
+        </style>
+    </head>
+        <body>
+            <center><h1>Monster High</h1></center>
+            <ul>
+                <center><li>Monster High é a escola central da franquia homônima, situada em New Salem.<br>
+                     Destaca-se por ser a única instituição que aceita todas as espécies de monstros, embora,<br>
+                      por enquanto, não permita a inscrição de humanos. Para atender às diversas necessidades dos<br>
+                       alunos e incentivar novas inscrições, Monster High possui um extenso campus com várias comodidades,<br>
+                        incluindo uma estação ferroviária própria, e está disponível quase 24 horas por dia.</li></center>
+                </ul>
+        </body>
+</html>
